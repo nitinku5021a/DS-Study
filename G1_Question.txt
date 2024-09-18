@@ -1,0 +1,11 @@
+Ch. 2
+======
+What is timeseries data?
+Should all the prior observation be treated equally?
+What is concept drift?
+How important is the order (in time dimension)? Does it have strong role to play in prediction?
+Can we do prediction without really doing the analysis?
+Components of timeseries data (4 Components describe completeness? or Anything else possible?) 
+
+ch. 3
+=====
