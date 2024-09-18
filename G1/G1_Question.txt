@@ -9,3 +9,11 @@ Components of timeseries data (4 Components describe completeness? or Anything e
 
 ch. 3
 =====
+supervised learning: Y = f(x)
+a) classification : Output is a category/bucket
+b) Regression: Output is real value /
+
+Lag/sliding window method to convert any timeseries into a supervised learning problem.
+Can be used to solve both univariate (single variable observed in each time point) and multivariate problems(2 or more variables observed in each time point).
+
+One-step forecast vs multistep forecast (extension to the one-step forecast? if not whats the diff.?)
